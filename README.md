@@ -1,6 +1,8 @@
-# PrusaSlicer
-
-(update_prusaslicer_config.bat)
+# PrusaSlicer Instructions to Synchronize Settings
+* Git for windows is a prerequisite to running this script *
+1. Create a bat file in your download folder update_prusaslicer_config.bat
+2. Set its contents to the following code
+3. Run it
 ```bat
 set repoauthor=MrBLT
 set reponame=PrusaSlicer
